@@ -182,9 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/starqltecs/proprietary/vendor/bin/snap_utility_32:$(TARGET_COPY_OUT_VENDOR)/bin/snap_utility_32 \
     vendor/samsung/starqltecs/proprietary/vendor/bin/snap_utility_64:$(TARGET_COPY_OUT_VENDOR)/bin/snap_utility_64 \
     vendor/samsung/starqltecs/proprietary/vendor/bin/sscrpcd:$(TARGET_COPY_OUT_VENDOR)/bin/sscrpcd \
-    vendor/samsung/starqltecs/proprietary/vendor/bin/ssr_diag:$(TARGET_COPY_OUT_VENDOR)/bin/ssr_diag \
-    vendor/samsung/starqltecs/proprietary/vendor/bin/ssr_setup:$(TARGET_COPY_OUT_VENDOR)/bin/ssr_setup \
-    vendor/samsung/starqltecs/proprietary/vendor/bin/subsystem_ramdump:$(TARGET_COPY_OUT_VENDOR)/bin/subsystem_ramdump \
     vendor/samsung/starqltecs/proprietary/vendor/bin/tbaseLoader:$(TARGET_COPY_OUT_VENDOR)/bin/tbaseLoader \
     vendor/samsung/starqltecs/proprietary/vendor/bin/test_diag:$(TARGET_COPY_OUT_VENDOR)/bin/test_diag \
     vendor/samsung/starqltecs/proprietary/vendor/bin/test_model.json:$(TARGET_COPY_OUT_VENDOR)/bin/test_model.json \
